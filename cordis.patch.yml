@@ -28,7 +28,7 @@
   config:
     includeHarnessIdentity: false
     personaPrefix: ""
-    personaSuffix: Your working directory is {{cwd}}.
+    # 删除过期的 personaSuffix（{{cwd}} 在 DSH 0.2.1 deployment 段未注册）
 
 - id: dsh-purge
   inject: [systemPrompt, tools]
