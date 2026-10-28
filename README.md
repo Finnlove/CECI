@@ -4,7 +4,9 @@
 
 <h1 align="center">⚔️ DeepSeek Harness cybersecurity red-team tool (dsh-purge)</h1>
 
-<p align="center"><strong>Version 1.1.71</strong></p>
+<h1 align="center">破甲包 · DSH 0.2.1 本地补丁版</h1>
+
+<p align="center"><strong>Version 1.1.71 + 本地补丁 (DSH 0.2.1 兼容)</strong></p>
 
 <p align="center">
   <em>DeepSeek Harness jailbreak: every model, swap prompts per model. Default prompt for 小码酱. Please star ⭐ If you build on this, see Attribution required.</em>
